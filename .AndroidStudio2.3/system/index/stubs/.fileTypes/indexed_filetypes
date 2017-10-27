@@ -1,0 +1,8 @@
+JAVA￿stub:com.intellij.psi.impl.source.JavaFileElementType,25￿1502307192681
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,21￿1502307192680
+HTML￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1502307192679
+Properties￿stub:com.intellij.lang.properties.parsing.PropertiesElementTypes$1,0￿1502307192678
+GDBCommands￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1502307192677
+Groovy￿stub:org.jetbrains.plugins.groovy.lang.psi.stubs.elements.GrStubFileElementType,29￿1502307192676
+LLDBCommands￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1502307192675
+CLASS￿binary stub builder:com.intellij.psi.impl.compiled.ClassFileStubBuilder,15￿1502307192674

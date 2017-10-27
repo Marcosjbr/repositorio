@@ -1,0 +1,10 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Rerun@RunnerToolbar" count="87" />
+      <entry action="Stop@RunnerToolbar" count="23" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="1" />
+      <entry action="com.intellij.usages.impl.UsageViewImpl$CloseAction@UsageViewToolbar" count="2" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,79 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/uri.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/untitle.py" />
+        <option value="$USER_HOME$/Desktop/aulaRedes" />
+        <option value="G:/CJPEN/DAW-I/DAO SEEKER's" />
+        <option value="$USER_HOME$/PycharmProjects/redes" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/uri.py" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/AppData/Local/Temp/uri.py" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/untitle.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-172.3544.46" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505792784047" />
+              <option name="buildTimestamp" value="1502293088162" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/uri.py">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-172.3544.46" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506382800516" />
+              <option name="buildTimestamp" value="1502293124680" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/aulaRedes">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-172.3544.46" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505270345686" />
+              <option name="buildTimestamp" value="1502293099308" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/redes">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-172.3544.46" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504739529200" />
+              <option name="buildTimestamp" value="1502293127608" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="G:/CJPEN/DAW-I/DAO SEEKER's">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-172.3544.46" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504739601427" />
+              <option name="buildTimestamp" value="1502293127608" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>
